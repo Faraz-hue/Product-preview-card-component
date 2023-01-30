@@ -4,6 +4,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+.title{
+    text-transform:uppercase;
+    letter-spacing:0.3em;
 img{
     border-top-left-radius: 12px;
     border-bottom-left-radius: 12px;
